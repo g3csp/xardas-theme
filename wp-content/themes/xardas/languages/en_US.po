@@ -1,0 +1,227 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-10-08 21:49+0200\n"
+"PO-Revision-Date: 2016-10-08 21:49+0200\n"
+"Last-Translator: Daniel Hitzel <d-hitzel@outlook.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:16
+msgid "Page not found"
+msgstr ""
+
+#: 404.php:18
+msgid "Nothing to get"
+msgstr ""
+
+#: archive.php:58 author.php:46 category.php:50 tag.php:64
+msgid "Previous"
+msgstr ""
+
+#: archive.php:59 author.php:47 category.php:51 tag.php:65
+msgid "Next"
+msgstr ""
+
+#: archive.php:60 author.php:48 category.php:52 tag.php:66
+msgid "Page"
+msgstr ""
+
+#: content-search.php:28 content-search.php:33
+msgid "Edit"
+msgstr ""
+
+#: footer.php:8 front-page.php:29
+msgid "Created by the community for the community"
+msgstr ""
+
+#: footer.php:23
+msgid "privacy-statement"
+msgstr ""
+
+#: footer.php:23
+msgid "Privacy Statement"
+msgstr ""
+
+#: footer.php:25
+msgid "imprint"
+msgstr ""
+
+#: footer.php:25
+msgid "Imprint"
+msgstr ""
+
+#: front-page.php:22
+msgid "The Community Story Project"
+msgstr ""
+
+#: front-page.php:25
+msgid "Gothic 3 <strong>Revived</strong>"
+msgstr ""
+
+#: front-page.php:34
+msgid "<strong>Story</strong> - <em>a more sophisticated, chapter-wise story</em>"
+msgstr ""
+
+#: front-page.php:38
+msgid "<strong>Characters</strong> - <em>improved character design</em>"
+msgstr ""
+
+#: front-page.php:42
+msgid "<strong>Quests</strong> - <em>even more exciting quests</em>"
+msgstr ""
+
+#: front-page.php:48 header.php:61
+msgid "faq"
+msgstr ""
+
+#: front-page.php:49
+msgid "read more in our FAQ"
+msgstr ""
+
+#: front-page.php:64
+msgid "News"
+msgstr ""
+
+#: front-page.php:90
+msgid "No posts found"
+msgstr ""
+
+#: front-page.php:96 header.php:62
+msgid "archive"
+msgstr ""
+
+#: front-page.php:98 header.php:62
+msgid "Archive"
+msgstr ""
+
+#: front-page.php:114
+msgid "Screenshots"
+msgstr ""
+
+#: front-page.php:223
+msgid "Partners"
+msgstr ""
+
+#: header.php:60
+msgid "Home"
+msgstr ""
+
+#: header.php:61
+msgid "FAQ"
+msgstr ""
+
+#: header.php:63
+msgid "gallery"
+msgstr ""
+
+#: header.php:63
+msgid "Gallery"
+msgstr ""
+
+#: header.php:64
+msgid "WoG"
+msgstr ""
+
+#: page.php:24 single.php:25
+msgid "This page does not exist"
+msgstr ""
+
+#: single.php:33
+msgid "Author"
+msgstr ""
+
+#: single.php:47
+msgid "Categories"
+msgstr ""
+
+#: single.php:53
+msgid "Tags"
+msgstr ""
+
+#~ msgid "Zurück"
+#~ msgstr "Previous"
+
+#~ msgid "Vorwärts"
+#~ msgstr "Next"
+
+#~ msgid "Seite"
+#~ msgstr "Page"
+
+#~ msgid "Seiten:"
+#~ msgstr "Pages:"
+
+#~ msgid "Nichts gefunden"
+#~ msgstr "Nothing Found"
+
+#~ msgid "Hier gibt es keine Beiträge"
+#~ msgstr "Sorry, there are no posts."
+
+#~ msgid "Erstellt von der Community für die Community"
+#~ msgstr "Created by the community for the community"
+
+#~ msgid "Datenschutz"
+#~ msgstr "Privacy Statement"
+
+#~ msgid "Impressum"
+#~ msgstr "Imprint"
+
+#~ msgid "<strong>Charaktere</strong> - <em>aufgewertete und interessante Charaktere</em>"
+#~ msgstr "<strong>Story</strong> - <em>a more sophisticated, chapter-wise story</em>"
+
+#~ msgid "<strong>Quests</strong> - <em>noch mehr spannende Quests</em>"
+#~ msgstr "<strong>Quests</strong> - <em>even more exciting quests</em>"
+
+#~ msgid "mehr in den FAQ"
+#~ msgstr "read more in our FAQ"
+
+#~ msgid "Neuigkeiten"
+#~ msgstr "News"
+
+#~ msgid "Archiv"
+#~ msgstr "Archive"
+
+#~ msgid "Diese Seite existiert nicht"
+#~ msgstr "This page does not exists"
+
+#~ msgid "verfasst von"
+#~ msgstr "Author"
+
+#~ msgid "Kategorien"
+#~ msgstr "Categories"
+
+#~ msgid "Seite nicht gefunden"
+#~ msgstr "Page not found"
+
+#~ msgid "Das Community Story Project"
+#~ msgstr "The Community Story Project"
+
+#~ msgid "Gothic 3 <strong>neu erleben</strong>"
+#~ msgstr "Gothic 3 <strong>Revived</strong>"
+
+#~ msgid "<strong>Story</strong> - <em>eine verbesserte, durch Kapitel gegliederte Story</em>"
+#~ msgstr "<strong>Story</strong> - <em>a more sophisticated, chapter-wise story</em>"
+
+#~ msgid "/de"
+#~ msgstr "/en"
+
+#~ msgid "/de/faq"
+#~ msgstr "/en/faq"
+
+#~ msgid "/de/archiv"
+#~ msgstr "/en/archive"
+
+#~ msgid "/de/galerie"
+#~ msgstr "/en/gallery"
+
+#~ msgid "Galerie"
+#~ msgstr "Gallery"

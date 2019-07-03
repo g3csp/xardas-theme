@@ -1,0 +1,220 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-04-07 19:31+0200\n"
+"PO-Revision-Date: 2017-04-07 19:38+0200\n"
+"Last-Translator: Daniel Hitzel <d-hitzel@outlook.com>\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:16
+msgid "Page not found"
+msgstr "Страница не найдена"
+
+#: 404.php:18
+msgid "Nothing to get"
+msgstr ""
+
+#: archive.php:58 author.php:46 category.php:50 tag.php:64
+msgid "Previous"
+msgstr "предыдущая"
+
+#: archive.php:59 author.php:47 category.php:51 tag.php:65
+msgid "Next"
+msgstr "следующая"
+
+#: archive.php:60 author.php:48 category.php:52 tag.php:66
+msgid "Page"
+msgstr "Страница"
+
+#: content-search.php:28 content-search.php:33
+msgid "Edit"
+msgstr "Редактировать"
+
+#: footer.php:8 front-page.php:29
+msgid "Created by the community for the community"
+msgstr "Создано сообществом для сообщества"
+
+#: footer.php:23
+msgid "privacy-statement"
+msgstr "заявление-о-защите-данных"
+
+#: footer.php:23
+msgid "Privacy Statement"
+msgstr "Заявление о защите данных"
+
+#: footer.php:25
+msgid "imprint"
+msgstr "импринт"
+
+#: footer.php:25
+msgid "Imprint"
+msgstr "Импринт"
+
+#: front-page.php:22
+msgid "The Community Story Project"
+msgstr "Community Story Project"
+
+#: front-page.php:25
+msgid "Gothic 3 <strong>Revived</strong>"
+msgstr "<strong>Возрождённая</strong> Gothic 3"
+
+#: front-page.php:34
+msgid ""
+"<strong>Story</strong> - <em>a more sophisticated, chapter-wise story</em>"
+msgstr ""
+"<strong>Сюжет</strong> - <em>усовершенствованный, разделённый на главы "
+"сюжет</em>"
+
+#: front-page.php:38
+msgid "<strong>Characters</strong> - <em>improved character design</em>"
+msgstr ""
+"<strong>Персонажи</strong> - <em>улучшенные и интересные персонажи</em>"
+
+#: front-page.php:42
+msgid "<strong>Quests</strong> - <em>even more exciting quests</em>"
+msgstr ""
+"<strong>Задания</strong> - <em>новых заданий даже больше, чем существующих</"
+"em>"
+
+#: front-page.php:48 header.php:61
+msgid "faq"
+msgstr "faq"
+
+#: front-page.php:49
+msgid "read more in our FAQ"
+msgstr "Подробности в нашем FAQ"
+
+#: front-page.php:64
+msgid "News"
+msgstr "Новости"
+
+#: front-page.php:90
+msgid "No posts found"
+msgstr "Сообщений не найдено"
+
+#: front-page.php:96 header.php:62
+msgid "archive"
+msgstr "архив"
+
+#: front-page.php:98 header.php:62
+msgid "Archive"
+msgstr "Архив"
+
+#: front-page.php:114
+msgid "Screenshots"
+msgstr "Скриншоты"
+
+#: front-page.php:223
+msgid "Partners"
+msgstr "партнеры"
+
+#: header.php:60
+msgid "Home"
+msgstr "Главная"
+
+#: header.php:61
+msgid "FAQ"
+msgstr "FAQ"
+
+#: header.php:63
+msgid "gallery"
+msgstr "галерея"
+
+#: header.php:63
+msgid "Gallery"
+msgstr "Галерея"
+
+#: header.php:64
+msgid "jobs"
+msgstr "задание"
+
+#: header.php:64
+msgid "Jobs"
+msgstr "Задача"
+
+#: header.php:66
+msgid "WoG"
+msgstr "WoG"
+
+#: page.php:24 single.php:27
+msgid "This page does not exist"
+msgstr "Данная страница не существует"
+
+#: single.php:36
+msgid "Categories"
+msgstr "Категории"
+
+#: single.php:44
+msgid "Tags"
+msgstr "Теги"
+
+#~ msgid "Author"
+#~ msgstr "Автор"
+
+#~ msgid "Erstellt von der Community für die Community"
+#~ msgstr "Создано сообществом для сообщества"
+
+#~ msgid "Datenschutz"
+#~ msgstr "аявление о защите данных"
+
+#~ msgid "Impressum"
+#~ msgstr "Импринт"
+
+#~ msgid "Das Community Story Project"
+#~ msgstr "Community Story Project"
+
+#~ msgid "Gothic 3 <strong>neu erleben</strong>"
+#~ msgstr "<strong>Возрождённая</strong><br /> Gothic 3"
+
+#~ msgid ""
+#~ "<strong>Story</strong> - <em>eine verbesserte, durch Kapitel gegliederte "
+#~ "Story</em>"
+#~ msgstr ""
+#~ "<strong>Сюжет</strong> - <em>усовершенствованный, разделённый на главы "
+#~ "сюжет</em>"
+
+#~ msgid ""
+#~ "<strong>Charaktere</strong> - <em>aufgewertete und interessante "
+#~ "Charaktere</em>"
+#~ msgstr ""
+#~ "<strong>Персонажи</strong> - <em>улучшенные и интересные персонажи</em>"
+
+#~ msgid "<strong>Quests</strong> - <em>noch mehr spannende Quests</em>"
+#~ msgstr ""
+#~ "<strong>Задания</strong> - <em>новых заданий даже больше, чем "
+#~ "существующих</em>"
+
+#~ msgid "mehr in den FAQ"
+#~ msgstr "Подробности в нашем FAQ"
+
+#~ msgid "Neuigkeiten"
+#~ msgstr "Новости"
+
+#~ msgid "Archiv"
+#~ msgstr "Архивы"
+
+#~ msgid "/de"
+#~ msgstr "/ru"
+
+#~ msgid "/de/faq"
+#~ msgstr "/ru/faq"
+
+#~ msgid "/de/archiv"
+#~ msgstr "/ru/архив"
+
+#~ msgid "/de/galerie"
+#~ msgstr "/ru/галерея"
+
+#~ msgid "Galerie"
+#~ msgstr "галерея"

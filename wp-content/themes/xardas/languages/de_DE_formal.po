@@ -1,0 +1,161 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xardas\n"
+"POT-Creation-Date: 2017-04-07 19:30+0200\n"
+"PO-Revision-Date: 2017-04-07 19:31+0200\n"
+"Last-Translator: Daniel Hitzel <d-hitzel@outlook.com>\n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:16
+msgid "Page not found"
+msgstr "Seite nicht gefunden"
+
+#: 404.php:18
+msgid "Nothing to get"
+msgstr "\"Da ist nichts zu holen\""
+
+#: archive.php:58 author.php:46 category.php:50 tag.php:64
+msgid "Previous"
+msgstr "Zurück"
+
+#: archive.php:59 author.php:47 category.php:51 tag.php:65
+msgid "Next"
+msgstr "Vorwärts"
+
+#: archive.php:60 author.php:48 category.php:52 tag.php:66
+msgid "Page"
+msgstr "Seite"
+
+#: content-search.php:28 content-search.php:33
+msgid "Edit"
+msgstr "Editieren"
+
+#: footer.php:8 front-page.php:29
+msgid "Created by the community for the community"
+msgstr "Erstellt von der Community für die Community"
+
+#: footer.php:23
+msgid "privacy-statement"
+msgstr "datenschutz"
+
+#: footer.php:23
+msgid "Privacy Statement"
+msgstr "Datenschutz"
+
+#: footer.php:25
+msgid "imprint"
+msgstr "impressum"
+
+#: footer.php:25
+msgid "Imprint"
+msgstr "Impressum"
+
+#: front-page.php:22
+msgid "The Community Story Project"
+msgstr "Das Community Story Project"
+
+#: front-page.php:25
+msgid "Gothic 3 <strong>Revived</strong>"
+msgstr "Gothic 3 <strong>neu erleben</strong>"
+
+#: front-page.php:34
+msgid ""
+"<strong>Story</strong> - <em>a more sophisticated, chapter-wise story</em>"
+msgstr ""
+"<strong>Story</strong> - <em>eine verbesserte, durch Kapitel gegliederte "
+"Story</em>"
+
+#: front-page.php:38
+msgid "<strong>Characters</strong> - <em>improved character design</em>"
+msgstr ""
+"<strong>Charaktere</strong> - <em>aufgewertete und interessante Charaktere</"
+"em>"
+
+#: front-page.php:42
+msgid "<strong>Quests</strong> - <em>even more exciting quests</em>"
+msgstr "<strong>Quests</strong> - <em>noch mehr spannende Quests</em>"
+
+#: front-page.php:48 header.php:61
+msgid "faq"
+msgstr "faq"
+
+#: front-page.php:49
+msgid "read more in our FAQ"
+msgstr "mehr in den FAQ"
+
+#: front-page.php:64
+msgid "News"
+msgstr "Neuigkeiten"
+
+#: front-page.php:90
+msgid "No posts found"
+msgstr "Keine Beiträge gefunden"
+
+#: front-page.php:96 header.php:62
+msgid "archive"
+msgstr "archiv"
+
+#: front-page.php:98 header.php:62
+msgid "Archive"
+msgstr "Archiv"
+
+#: front-page.php:114
+msgid "Screenshots"
+msgstr "Screenshots"
+
+#: front-page.php:223
+msgid "Partners"
+msgstr "Partner"
+
+#: header.php:60
+msgid "Home"
+msgstr "Home"
+
+#: header.php:61
+msgid "FAQ"
+msgstr "FAQ"
+
+#: header.php:63
+msgid "gallery"
+msgstr "galerie"
+
+#: header.php:63
+msgid "Gallery"
+msgstr "Galerie"
+
+#: header.php:64
+msgid "jobs"
+msgstr "jobs"
+
+#: header.php:64
+msgid "Jobs"
+msgstr "Jobs"
+
+#: header.php:66
+msgid "WoG"
+msgstr "WoG"
+
+#: page.php:24 single.php:27
+msgid "This page does not exist"
+msgstr "Diese Seite existiert nicht"
+
+#: single.php:36
+msgid "Categories"
+msgstr "Kategorien"
+
+#: single.php:44
+msgid "Tags"
+msgstr "Tags"
+
+#~ msgid "Author"
+#~ msgstr "Autor"

@@ -1,0 +1,66 @@
+/*
+Theme Name: Xardas-Intro
+Theme URI: https://github.com/der-Daniel/Xardas
+Description: Gothic 3 Community Story Project
+Version: 1
+Author: Daniel Hitzel (originial: Jenn Pereira, Designed by Robert)
+Author URI: https://github.com/der-Daniel/
+*/
+
+
+@import url(https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,700,300,600,800,400);
+
+
+body, html{
+	font-family: 'Lato', sans-serif;
+	text-rendering: optimizeLegibility !important;
+	-webkit-font-smoothing: antialiased !important;
+	color: #5a5a5a;
+	height: 100%;
+    background: #171717;
+}
+
+body {
+    background-image: url('img/background.jpg');
+}
+
+h1{
+	text-transform: uppercase;
+	color:#FFF;
+}
+h1 strong{
+	font-weight: 900;
+    text-shadow: 1px 1px 0 #000;
+}
+h2{
+#FCAC45	text-transform: uppercase;
+	line-height: 20px;
+	margin:  0;
+    text-shadow: 1px 1px 0 #efeded;
+
+}
+p{
+	font-family: 'Open Sans', sans-serif;
+}
+
+table {
+    height: 100%;
+    width: 100%;
+}
+
+table tr td {
+    text-align:center;
+    vertical-align:middle;
+}
+
+p.intro{
+	font-size: 16px;
+	margin: 12px 0 0;
+	line-height: 24px;
+	font-family: 'Open Sans', sans-serif;
+}
+.logo {
+    width: 200px;
+    margin-bottom: 30px;
+}
