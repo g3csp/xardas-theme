@@ -7,7 +7,7 @@
                   <h1 class="paper">G3 <strong>Community Story Project</strong></h1>
                   <h5 class="paper"><?php _e('Created by the community for the community', 'xardas')?></h5>
                   <div class="clearfix"></div>
-                  <h5 class="paper">Copyright 2018</h5>
+                  <h5 class="paper">Copyright <?php echo date("Y"); ?></h5>
                   <br>
                   <h5 class="paper">
                         <a href="mailto:gothic3csp@posteo.de"><i class="fa fa-envelope"></i> E-Mail</a>&nbsp;&nbsp;&nbsp;
