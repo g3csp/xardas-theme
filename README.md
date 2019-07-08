@@ -3,7 +3,7 @@
 ## Gothic 3 - Community Story Project
 
 <p align="center">
-<a href="https://g3csp.de" target="_blank"><img src="https://raw.githubusercontent.com/mszkb/xardas/master/wp-content/themes/xardas/img/favsmall.png" /></a>
+<a href="https://g3csp.de" target="_blank"><img src="https://raw.githubusercontent.com/g3csp/xardas-theme/master/wp-content/themes/xardas/img/favsmall.png" /></a>
 </p>
 
 Gothic 3 erwies sich anfangs doch als ein sehr mangelhaftes Spiel, was Technik, (Gothic-)Atmosphäre, (teils) Gameplay und vor allem Story und Spieltiefe anging. Zumindest wurde es den Erwartungen der Community größtenteils nicht gerecht. Das Community-Patch-Team also, machte sich bekanntermaßen dazu auf, Gothic 3 in ein würdiges Spiel zu verwandeln. Das Questpaket rundet diese Arbeit noch einmal (mehr als) ab. Und wir alle sind diesem Team dankbar, dass sie Gothic 3 für uns derartig verbesserten und verbessern. Nach CP 1.70 und QP 3 wird allerdings auch bekanntermaßen Schluss sein, denn alle guten Dinge finden ein Ende.
