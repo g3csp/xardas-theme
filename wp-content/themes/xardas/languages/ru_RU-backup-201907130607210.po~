@@ -86,8 +86,8 @@ msgstr ""
 #: front-page.php:42
 msgid "<strong>Quests</strong> - <em>even more exciting quests</em>"
 msgstr ""
-"<strong>Задания</strong> - <em>новых заданий даже больше, чем "
-"оригинальных</em>"
+"<strong>Задания</strong> - <em>новых заданий даже больше, чем оригинальных."
+"</em>"
 
 #: front-page.php:48 header.php:61
 msgid "faq"
