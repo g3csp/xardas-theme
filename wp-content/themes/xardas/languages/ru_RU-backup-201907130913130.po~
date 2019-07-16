@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-04-07 19:31+0200\n"
-"PO-Revision-Date: 2019-07-13 06:07+0000\n"
-"Last-Translator: theadmin <nomail@asd.de>\n"
+"PO-Revision-Date: 2019-07-13 09:08+0000\n"
+"Last-Translator: rosty <rost.olexenko@gmail.com>\n"
 "Language-Team: Русский\n"
 "Language: ru_RU\n"
 "MIME-Version: 1.0\n"
@@ -25,7 +25,7 @@ msgstr "Страница не найдена"
 
 #: 404.php:18
 msgid "Nothing to get"
-msgstr ""
+msgstr "Нечего взять"
 
 #: archive.php:58 author.php:46 category.php:50 tag.php:64
 msgid "Previous"
@@ -33,7 +33,7 @@ msgstr "предыдущая"
 
 #: archive.php:59 author.php:47 category.php:51 tag.php:65
 msgid "Next"
-msgstr "следующая"
+msgstr "далее"
 
 #: archive.php:60 author.php:48 category.php:52 tag.php:66
 msgid "Page"
@@ -86,8 +86,8 @@ msgstr ""
 #: front-page.php:42
 msgid "<strong>Quests</strong> - <em>even more exciting quests</em>"
 msgstr ""
-"<strong>Задания</strong> - <em>новых заданий даже больше, чем оригинальных."
-"</em>"
+"<strong>Задания</strong> - <em>новых заданий даже больше, чем "
+"оригинальных</em>"
 
 #: front-page.php:48 header.php:61
 msgid "faq"
@@ -103,7 +103,7 @@ msgstr "Новости"
 
 #: front-page.php:90
 msgid "No posts found"
-msgstr "Сообщений не найдено"
+msgstr "Сообщение не найдено"
 
 #: front-page.php:96 header.php:62
 msgid "archive"
@@ -119,7 +119,7 @@ msgstr "Скриншоты"
 
 #: front-page.php:223
 msgid "Partners"
-msgstr "партнеры"
+msgstr "Партнеры"
 
 #: header.php:60
 msgid "Home"
@@ -143,7 +143,7 @@ msgstr "задание"
 
 #: header.php:64
 msgid "Jobs"
-msgstr "Задача"
+msgstr "Задания"
 
 #: header.php:66
 msgid "WoG"
