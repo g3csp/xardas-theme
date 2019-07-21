@@ -123,81 +123,81 @@
 
         <div class="row">
 
-            <div class="col-sm-6 col-md-3 col-lg-3 branding">
+            <div class="col-xs-6 col-md-3 col-lg-3 branding">
                 <div class="portfolio-item">
                     <div class="hover-bg">
-                        <a href="<?php bloginfo('template_directory'); ?>/img/portfolio/01.jpg">
-                            <img src="<?php bloginfo('template_directory'); ?>/img/portfolio/01.jpg" class="img-responsive" alt="...">
+                        <a href="<?php bloginfo('template_directory'); ?>/img/portfolio/01.jpg" class="foobox" rel="gallery">
+                            <img src="<?php bloginfo('template_directory'); ?>/img/portfolio/01_thumb.jpg" class="img-responsive">
                         </a>
                     </div>
                 </div>
             </div>
 
-            <div class="col-sm-6 col-md-3 col-lg-3 photography app">
+            <div class="col-xs-6 col-md-3 col-lg-3 photography app">
                 <div class="portfolio-item">
                     <div class="hover-bg">
-                        <a href="<?php bloginfo('template_directory'); ?>/img/portfolio/02.jpg">
-                            <img src="<?php bloginfo('template_directory'); ?>/img/portfolio/02.jpg" class="img-responsive" alt="...">
+                        <a href="<?php bloginfo('template_directory'); ?>/img/portfolio/02.jpg" class="foobox" rel="gallery">
+                            <img src="<?php bloginfo('template_directory'); ?>/img/portfolio/02_thumb.jpg" class="img-responsive">
                         </a>
                     </div>
                 </div>
             </div>
 
-            <div class="col-sm-6 col-md-3 col-lg-3 branding">
+            <div class="col-xs-6 col-md-3 col-lg-3 branding">
                 <div class="portfolio-item">
                     <div class="hover-bg">
-                        <a href="<?php bloginfo('template_directory'); ?>/img/portfolio/03.jpg">
-                            <img src="<?php bloginfo('template_directory'); ?>/img/portfolio/03.jpg" class="img-responsive" alt="...">
+                        <a href="<?php bloginfo('template_directory'); ?>/img/portfolio/03.jpg" class="foobox" rel="gallery">
+                            <img src="<?php bloginfo('template_directory'); ?>/img/portfolio/03_thumb.jpg" class="img-responsive">
                         </a>
                     </div>
                 </div>
             </div>
 
-            <div class="col-sm-6 col-md-3 col-lg-3 branding">
+            <div class="col-xs-6 col-md-3 col-lg-3 branding">
                 <div class="portfolio-item">
                     <div class="hover-bg">
-                        <a href="<?php bloginfo('template_directory'); ?>/img/portfolio/04.jpg">
-                            <img src="<?php bloginfo('template_directory'); ?>/img/portfolio/04.jpg" class="img-responsive" alt="...">
+                        <a href="<?php bloginfo('template_directory'); ?>/img/portfolio/04.jpg" class="foobox" rel="gallery">
+                            <img src="<?php bloginfo('template_directory'); ?>/img/portfolio/04_thumb.jpg" class="img-responsive">
                         </a>
                     </div>
                 </div>
             </div>
 
-            <div class="col-sm-6 col-md-3 col-lg-3 web">
+            <div class="col-xs-6 col-md-3 col-lg-3 web">
                 <div class="portfolio-item">
                     <div class="hover-bg">
-                        <a href="<?php bloginfo('template_directory'); ?>/img/portfolio/05.jpg">
-                            <img src="<?php bloginfo('template_directory'); ?>/img/portfolio/05.jpg" class="img-responsive" alt="...">
+                        <a href="<?php bloginfo('template_directory'); ?>/img/portfolio/05.jpg" class="foobox" rel="gallery">
+                            <img src="<?php bloginfo('template_directory'); ?>/img/portfolio/05_thumb.jpg" class="img-responsive">
                         </a>
                     </div>
                 </div>
             </div>
 
-            <div class="col-sm-6 col-md-3 col-lg-3 app">
+            <div class="col-xs-6 col-md-3 col-lg-3 app">
                 <div class="portfolio-item">
                     <div class="hover-bg">
-                        <a href="<?php bloginfo('template_directory'); ?>/img/portfolio/06.jpg">
-                            <img src="<?php bloginfo('template_directory'); ?>/img/portfolio/06.jpg" class="img-responsive" alt="...">
+                        <a href="<?php bloginfo('template_directory'); ?>/img/portfolio/06.jpg" class="foobox" rel="gallery">
+                            <img src="<?php bloginfo('template_directory'); ?>/img/portfolio/06_thumb.jpg" class="img-responsive">
                         </a>
                     </div>
                 </div>
             </div>
 
-            <div class="col-sm-6 col-md-3 col-lg-3 photography web">
+            <div class="col-xs-6 col-md-3 col-lg-3 photography web">
                 <div class="portfolio-item">
                     <div class="hover-bg">
-                        <a href="<?php bloginfo('template_directory'); ?>/img/portfolio/07.jpg">
-                            <img src="<?php bloginfo('template_directory'); ?>/img/portfolio/07.jpg" class="img-responsive" alt="...">
+                        <a href="<?php bloginfo('template_directory'); ?>/img/portfolio/07.jpg" class="foobox" rel="gallery">
+                            <img src="<?php bloginfo('template_directory'); ?>/img/portfolio/07_thumb.jpg" class="img-responsive">
                         </a>
                     </div>
                 </div>
             </div>
 
-            <div class="col-sm-6 col-md-3 col-lg-3 web">
+            <div class="col-xs-6 col-md-3 col-lg-3 web">
                 <div class="portfolio-item">
                     <div class="hover-bg">
-                        <a href="#">
-                            <img src="<?php bloginfo('template_directory'); ?>/img/portfolio/08.jpg" class="img-responsive" alt="...">
+                        <a href="<?php bloginfo('template_directory'); ?>/img/portfolio/08.jpg" class="foobox" rel="gallery">
+                            <img src="<?php bloginfo('template_directory'); ?>/img/portfolio/08_thumb.jpg" class="img-responsive">
                         </a>
                     </div>
                 </div>
