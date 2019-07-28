@@ -9,6 +9,7 @@
                echo('<div id="tf-single-header" style="background-image: url(' . $blog_url . '/img/background.jpg)">');
           }
          ?>
+<main>
     <div class="lower-border">
         <div class="container">
             <h1 class="paper"><strong><?php single_post_title(); ?></strong></h1>
@@ -17,9 +18,8 @@
             </h4>
         </div>
     </div>
-    </div>
     <div class="container text-left">
-        <div class="single-content">
+        <article class="single-content">
             <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
             <?php the_content(); ?>
             <?php endwhile; else: ?>
@@ -27,7 +27,7 @@
                 <?php _e('This page does not exist'); ?>
             </p>
             <?php endif; ?>
-        </div>
+        </article>
     </div>
     <div class="container single-meta text-left">
         <div class="row">
@@ -49,4 +49,5 @@
             </div>
         </div>
     </div>
+</main>
     <?php get_footer(); ?>
