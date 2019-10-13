@@ -83,6 +83,11 @@ a:active {
     color: #fff;
     text-shadow: 1px 1px 0 #000;
 }
+@media screen and (max-width: 767px) {
+    .text-xs-center {
+        text-align: center !important
+    }
+}
 .paper a:hover {
     text-decoration: underline;
 }
@@ -125,9 +130,18 @@ ul, ol {
 }
 
 /* Navigation */
-@media screen and (idth: 768px) {
+@media screen and (width: 768px) {
     #menu table  {
         width: auto;
+    }
+}
+@media screen and (max-width: 767px) {
+    .navbar-fixed-top .navbar-collapse {
+        max-height: none;
+    }
+    .navbar-nav {
+        height: 100vh;
+        text-align: center;
     }
 }
 #menu {
@@ -159,6 +173,15 @@ ul, ol {
 }
 .nav-text {
     padding-top: 20px !important;
+}
+@media screen and (max-width: 767px) {
+    #menu.navbar-default .navbar-nav > li > a {
+        font-size: 24px;
+    }
+    .nav-text {
+        padding-top: 25px !important;
+        padding-bottom: 25px !important;
+    }
 }
 .on {
     background-color: #222222 !important;
@@ -729,3 +752,4 @@ footer i.fa {
 #partners img {
     width: 40%;
 }
+

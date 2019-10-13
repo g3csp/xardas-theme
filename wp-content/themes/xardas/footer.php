@@ -3,20 +3,20 @@
       <div class="container">
          <div class="row">
             <div class="col-md-7">
-               <div class="footer-text text-left">
+               <div class="footer-text text-left text-xs-center">
                   <h1 class="paper">G3 <strong>Community Story Project</strong></h1>
                   <h5 class="paper"><?php _e('Created by the community for the community', 'xardas')?></h5>
                   <div class="clearfix"></div>
-                  <h5 class="paper">Copyright <?php echo date("Y"); ?></h5>
+                  <h5 class="paper xs-center">Copyright <?php echo date("Y"); ?></h5>
                   <br>
-                  <h5 class="paper">
+                  <h5 class="paper text-xs-center">
                         <a href="mailto:gothic3csp@posteo.de"><i class="fa fa-envelope"></i> E-Mail</a>&nbsp;&nbsp;&nbsp;
                         <a href="https://www.youtube.com/user/Gothic3CSP"><i class="fa fa-youtube"></i> Youtube</a>&nbsp;&nbsp;&nbsp;
                         <a href="https://www.facebook.com/g3csp"><i class="fa fa-facebook"></i> Facebook</a>
                   </h5>
                </div>
             </div>
-            <div class="col-md-5 text-right">
+            <div class="col-md-5 text-right text-xs-center">
                <div>
                      <br>
                   <h5 class="paper">
