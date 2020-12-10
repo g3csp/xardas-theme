@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-04-07 19:31+0200\n"
-"PO-Revision-Date: 2019-07-13 09:08+0000\n"
-"Last-Translator: rosty <rost.olexenko@gmail.com>\n"
+"PO-Revision-Date: 2020-09-11 14:33+0000\n"
+"Last-Translator: \n"
 "Language-Team: Русский\n"
 "Language: ru_RU\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,7 @@ msgstr ""
 "X-Poedit-KeywordsList: _e;__\n"
 "X-Poedit-SearchPath-0: .\n"
 "Report-Msgid-Bugs-To: \n"
-"X-Loco-Version: 2.3.0; wp-5.2.2"
+"X-Loco-Version: 2.3.3; wp-5.4.2"
 
 #: 404.php:16
 msgid "Page not found"
@@ -74,9 +74,7 @@ msgstr "<strong>Возрождённая</strong> Gothic 3"
 #: front-page.php:34
 msgid ""
 "<strong>Story</strong> - <em>a more sophisticated, chapter-wise story</em>"
-msgstr ""
-"<strong>Сюжет</strong> - <em>усовершенствованный, разделённый на главы "
-"сюжет</em>"
+msgstr "<strong>Сюжет</strong> - <em>усовершенствованный сюжет по главам </em>"
 
 #: front-page.php:38
 msgid "<strong>Characters</strong> - <em>improved character design</em>"
@@ -139,11 +137,11 @@ msgstr "Галерея"
 
 #: header.php:64
 msgid "jobs"
-msgstr "задание"
+msgstr "задачи"
 
 #: header.php:64
 msgid "Jobs"
-msgstr "Задания"
+msgstr "Задачи"
 
 #: header.php:66
 msgid "WoG"
